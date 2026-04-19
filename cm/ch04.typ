@@ -5,7 +5,7 @@
   title: [Physics - Classic Mechanics],
   date: datetime.today(),
   author: "Junfeng Lve",
-  abstract: [Study notes on Chapter 4, 角动量守恒 刚体力学 of _新概念物理教程 力学_，赵凯华.],
+  abstract: [Study notes on Chapter 4, 角动量守恒 刚体力学of _新概念物理教程 力学_，赵凯华.],
 )
 #show: setup
 

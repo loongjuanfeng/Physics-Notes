@@ -5,7 +5,7 @@
   title: [Physics - Classic Mechanics],
   date: datetime.today(),
   author: "Junfeng Lve",
-  abstract: [Study notes on Chapter 1, 质点运动学 of _新概念物理教程 力学_，赵凯华.],
+  abstract: [Study notes on Chapter 1, 质点运动学of _新概念物理教程 力学_，赵凯华.],
 )
 #show: setup
 
